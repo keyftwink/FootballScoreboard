@@ -121,7 +121,7 @@
         android:layout_width="150dp"
         android:layout_height="100dp"
         android:layout_marginStart="8dp"
-        android:backgroundTint="#91A7BD"
+        android:backgroundTint="#4169E1"
         android:onClick="addPointToFirstTeam"
         android:text="@string/addpoint"
         android:textColor="@color/black"
@@ -131,12 +131,12 @@
         app:layout_constraintVertical_bias="0.762" />
 
     <Button
-        android:id="@+id/drop"
+        android:id="@+id/reset"
         android:layout_width="160dp"
         android:layout_height="100dp"
-        android:backgroundTint="#91A7BD"
+        android:backgroundTint="#FF0000"
         android:onClick="resetScore"
-        android:text="@string/drop"
+        android:text="@string/reset"
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -149,7 +149,7 @@
         android:id="@+id/button2"
         android:layout_width="150dp"
         android:layout_height="100dp"
-        android:backgroundTint="#91A7BD"
+        android:backgroundTint="#4169E1"
         android:onClick="addPointToSecondTeam"
         android:text="@string/addpoint"
         android:textColor="@color/black"

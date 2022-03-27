@@ -5,5 +5,5 @@
     <string name="Russia">Россия</string>
     <string name="England">Англия</string>
     <string name="addpoint">Добавить очко</string>
-    <string name="drop">Сброс</string>
+    <string name="reset">Сброс</string>
 </resources>

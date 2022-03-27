@@ -7,5 +7,5 @@
     <string name="russiascore" translatable="false">0</string>
     <string name="addpoint">Add point</string>
     <string name="separator" translatable="false">:</string>
-    <string name="drop">Drop</string>
+    <string name="reset">Reset</string>
 </resources>
