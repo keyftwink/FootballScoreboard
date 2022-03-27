@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Футбольное табло</string>
+    <string name="score">Счет</string>
+    <string name="Russia">Россия</string>
+    <string name="England">Англия</string>
+    <string name="addpoint">Добавить очко</string>
+    <string name="drop">Сброс</string>
+</resources>
